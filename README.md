@@ -27,6 +27,9 @@ My primary goal is to:
 * ✅ Day 3 – Operators & Expressions
 * ✅ Day 4 – User Input & Type Casting
 * ✅ Day 5 – Conditional Statements (`if`, `if-else`, `switch`)
+* ✅ Day 6 – Loops (`for`, `while`, `do-while`) & Pattern Printing
+* ✅ Day 7 – Methods, Parameters, Return Types & Student Result Calculator (Mini Project)
+* ✅ Day 8 – Arrays & Student Marks Analyzer (Mini Project)
 
 ---
 
@@ -36,6 +39,8 @@ My primary goal is to:
 * 🧮 Basic Calculator
 * 🎓 Student Information Form
 * 🏧 ATM Menu Simulator
+* 📊 Student Result Calculator
+* 📈 Student Marks Analyzer
 
 ---
 
@@ -52,7 +57,6 @@ My primary goal is to:
 ## Variables & Data Types
 
 * Primitive Data Types
-
   * `int`
   * `float`
   * `double`
@@ -81,11 +85,38 @@ My primary goal is to:
 
 ## Decision Making
 
-* if Statement
-* if-else Statement
-* else-if Ladder
-* Nested if
-* switch Statement
+* `if` Statement
+* `if-else` Statement
+* `else-if` Ladder
+* Nested `if`
+* `switch` Statement
+
+## Loops
+
+* `for` Loop
+* `while` Loop
+* `do-while` Loop
+* Nested Loops
+* Pattern Printing
+
+## Methods
+
+* Method Declaration
+* Method Calling
+* Parameters
+* Return Type
+* `void` Methods
+* Method Overloading (Introduction)
+
+## Arrays
+
+* Array Declaration
+* Initialization
+* User Input in Arrays
+* Traversing Arrays
+* Finding Maximum & Minimum
+* Sum of Array Elements
+* Average Calculation
 
 ---
 
@@ -108,7 +139,10 @@ Java-OOP/
 ├── Day-02-Variables-and-Data-Types
 ├── Day-03-Operators
 ├── Day-04-User-Input
-└── Day-05-Conditional-Statements
+├── Day-05-Conditional-Statements
+├── Day-06-Loops
+├── Day-07-Methods
+└── Day-08-Arrays
 ```
 
 ---
@@ -129,41 +163,42 @@ This repository reflects my commitment to learning through:
 
 # 🎯 Current Milestone
 
-✔ Java Fundamentals (Part 1) Completed
+✔ Java Fundamentals Completed
 
-I have built a solid foundation in Java basics and am now preparing to learn loops, methods, arrays, and Object-Oriented Programming concepts.
+I have built a strong foundation in Java fundamentals and am now preparing to dive into Strings, Object-Oriented Programming (OOP), Constructors, Inheritance, and advanced Java concepts.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Loops
-* Methods
-* Arrays
 * Strings
-* Object-Oriented Programming (OOP)
+* Object-Oriented Programming (Classes & Objects)
 * Constructors
 * Inheritance
 * Polymorphism
+* Encapsulation
 * Abstraction
 * Interfaces
 * Exception Handling
 * File Handling
 * Collections Framework
+* Multithreading
+* JDBC
+* Spring Boot (Future)
 
 ---
 
 # 🌟 Long-Term Roadmap
 
 * ✅ Java Fundamentals
+* 🔄 Strings
 * 🔄 Object-Oriented Programming (OOP)
-* 🔄 Data Structures in Java
 * 🔄 Exception Handling
 * 🔄 Collections Framework
 * 🔄 File Handling
 * 🔄 Multithreading
 * 🔄 JDBC
-* 🔄 Spring Boot (Future)
+* 🔄 Spring Boot
 * 🔄 Backend Development
 
 ---
@@ -171,10 +206,10 @@ I have built a solid foundation in Java basics and am now preparing to learn loo
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* ☕ Java Days Completed: 5
-* 🚀 Mini Projects: 4
+* ☕ Java Days Completed: **8**
+* 🚀 Mini Projects: **6**
 * 📂 GitHub Updated Regularly
-* 📚 Learning Alongside Python & DSA
+* 📚 Learning Alongside Python & Data Structures in C
 
 ---
 
@@ -193,4 +228,3 @@ Thank you for visiting my Java repository!
 This repository will continue to grow as I explore Java, Object-Oriented Programming, and backend development. Every commit represents another step toward becoming a better software engineer.
 
 **Happy Coding! ☕🚀**
-
