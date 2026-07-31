@@ -30,6 +30,9 @@ My primary goal is to:
 * ✅ Day 6 – Loops (`for`, `while`, `do-while`) & Pattern Printing
 * ✅ Day 7 – Methods, Parameters, Return Types & Student Result Calculator (Mini Project)
 * ✅ Day 8 – Arrays & Student Marks Analyzer (Mini Project)
+* ✅ Day 9 – Strings (Methods, Palindrome, Word Count & Username Generator)
+* ✅ Day 10 – Classes & Objects (Library Management System – Version 1)
+* ✅ Day 11 – Constructors & Student Admission System (Mini Project)
 
 ---
 
@@ -41,6 +44,9 @@ My primary goal is to:
 * 🏧 ATM Menu Simulator
 * 📊 Student Result Calculator
 * 📈 Student Marks Analyzer
+* 👤 Student Username Generator
+* 📚 Library Management System (Version 1)
+* 🎓 Student Admission System
 
 ---
 
@@ -57,6 +63,7 @@ My primary goal is to:
 ## Variables & Data Types
 
 * Primitive Data Types
+
   * `int`
   * `float`
   * `double`
@@ -118,6 +125,39 @@ My primary goal is to:
 * Sum of Array Elements
 * Average Calculation
 
+## Strings
+
+* Creating Strings
+* String Methods
+* `length()`
+* `charAt()`
+* `substring()`
+* `equals()`
+* `compareTo()`
+* `toUpperCase()`
+* `toLowerCase()`
+* Reversing Strings
+* Palindrome Checking
+* Counting Words
+* Finding Longest Word
+* Counting Vowels & Consonants
+
+## Object-Oriented Programming (Introduction)
+
+* Classes
+* Objects
+* Fields
+* Methods
+* Creating Multiple Objects
+
+## Constructors
+
+* Default Constructor
+* Parameterized Constructor
+* Constructor Overloading
+* `this` Keyword (Introduction)
+* Object Initialization
+
 ---
 
 # 💻 Technologies & Tools
@@ -133,7 +173,7 @@ My primary goal is to:
 # 📂 Repository Structure
 
 ```text
-Java-OOP/
+Java-Learning-Roadmap/
 │
 ├── Day-01-Java-Basics
 ├── Day-02-Variables-and-Data-Types
@@ -142,7 +182,10 @@ Java-OOP/
 ├── Day-05-Conditional-Statements
 ├── Day-06-Loops
 ├── Day-07-Methods
-└── Day-08-Arrays
+├── Day-08-Arrays
+├── Day-09-Strings
+├── Day-10-Classes-and-Objects
+└── Day-11-Constructors
 ```
 
 ---
@@ -156,43 +199,48 @@ This repository reflects my commitment to learning through:
 * 📖 Daily Study
 * 💻 Hands-on Coding
 * 🧩 Problem Solving
-* 🚀 Mini Projects
+* 🚀 Building Projects
 * 📂 Version Control with Git & GitHub
 
 ---
 
 # 🎯 Current Milestone
 
-✔ Java Fundamentals Completed
+✔ **Java Fundamentals, Strings & OOP Foundations Completed**
 
-I have built a strong foundation in Java fundamentals and am now preparing to dive into Strings, Object-Oriented Programming (OOP), Constructors, Inheritance, and advanced Java concepts.
+I have built a strong foundation in Java programming by mastering the language fundamentals, arrays, strings, classes, objects, and constructors. I am now ready to move into the core Object-Oriented Programming concepts such as encapsulation, inheritance, polymorphism, abstraction, and interfaces while continuing to build larger real-world applications.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Strings
-* Object-Oriented Programming (Classes & Objects)
-* Constructors
+* Encapsulation
 * Inheritance
 * Polymorphism
-* Encapsulation
 * Abstraction
 * Interfaces
 * Exception Handling
 * File Handling
 * Collections Framework
+* Generics
 * Multithreading
 * JDBC
-* Spring Boot (Future)
+* Spring Boot
+* Backend Development
 
 ---
 
 # 🌟 Long-Term Roadmap
 
 * ✅ Java Fundamentals
-* 🔄 Strings
-* 🔄 Object-Oriented Programming (OOP)
+* ✅ Strings
+* ✅ Classes & Objects
+* ✅ Constructors
+* 🔄 Encapsulation
+* 🔄 Inheritance
+* 🔄 Polymorphism
+* 🔄 Abstraction
+* 🔄 Interfaces
 * 🔄 Exception Handling
 * 🔄 Collections Framework
 * 🔄 File Handling
@@ -206,9 +254,10 @@ I have built a strong foundation in Java fundamentals and am now preparing to di
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* ☕ Java Days Completed: **8**
-* 🚀 Mini Projects: **6**
+* ☕ Java Days Completed: **11**
+* 🚀 Mini Projects: **9**
 * 📂 GitHub Updated Regularly
+* 💻 Project-Based Learning
 * 📚 Learning Alongside Python & Data Structures in C
 
 ---
