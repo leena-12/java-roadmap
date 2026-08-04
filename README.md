@@ -33,6 +33,7 @@ My primary goal is to:
 * ✅ Day 9 – Strings (Methods, Palindrome, Word Count & Username Generator)
 * ✅ Day 10 – Classes & Objects (Library Management System – Version 1)
 * ✅ Day 11 – Constructors & Student Admission System (Mini Project)
+* ✅ Day 12 – Encapsulation (Private Fields, Getters/Setters, Validation & Library Management System – Version 2)
 
 ---
 
@@ -47,6 +48,7 @@ My primary goal is to:
 * 👤 Student Username Generator
 * 📚 Library Management System (Version 1)
 * 🎓 Student Admission System
+* 📚 Library Management System (Version 2 – Encapsulation)
 
 ---
 
@@ -158,6 +160,16 @@ My primary goal is to:
 * `this` Keyword (Introduction)
 * Object Initialization
 
+## Encapsulation
+
+* `private` Access Modifier
+* Data Hiding
+* Getter Methods
+* Setter Methods
+* Validation in Setters
+* Encapsulated Class Design
+* LibraryItem → Book/Magazine/Newspaper with Encapsulation
+
 ---
 
 # 💻 Technologies & Tools
@@ -185,7 +197,8 @@ Java-Learning-Roadmap/
 ├── Day-08-Arrays
 ├── Day-09-Strings
 ├── Day-10-Classes-and-Objects
-└── Day-11-Constructors
+├── Day-11-Constructors
+└── Day-12-Encapsulation
 ```
 
 ---
@@ -206,15 +219,14 @@ This repository reflects my commitment to learning through:
 
 # 🎯 Current Milestone
 
-✔ **Java Fundamentals, Strings & OOP Foundations Completed**
+✔ **Java Fundamentals, Strings, OOP Foundations & Encapsulation Completed**
 
-I have built a strong foundation in Java programming by mastering the language fundamentals, arrays, strings, classes, objects, and constructors. I am now ready to move into the core Object-Oriented Programming concepts such as encapsulation, inheritance, polymorphism, abstraction, and interfaces while continuing to build larger real-world applications.
+I have built a strong foundation in Java programming by mastering the language fundamentals, arrays, strings, classes, objects, constructors, and encapsulation. I am now ready to move into the remaining core Object-Oriented Programming concepts such as inheritance, polymorphism, abstraction, and interfaces while continuing to build larger real-world applications.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Encapsulation
 * Inheritance
 * Polymorphism
 * Abstraction
@@ -236,7 +248,7 @@ I have built a strong foundation in Java programming by mastering the language f
 * ✅ Strings
 * ✅ Classes & Objects
 * ✅ Constructors
-* 🔄 Encapsulation
+* ✅ Encapsulation
 * 🔄 Inheritance
 * 🔄 Polymorphism
 * 🔄 Abstraction
@@ -254,8 +266,8 @@ I have built a strong foundation in Java programming by mastering the language f
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* ☕ Java Days Completed: **11**
-* 🚀 Mini Projects: **9**
+* ☕ Java Days Completed: **12**
+* 🚀 Mini Projects: **10**
 * 📂 GitHub Updated Regularly
 * 💻 Project-Based Learning
 * 📚 Learning Alongside Python & Data Structures in C
