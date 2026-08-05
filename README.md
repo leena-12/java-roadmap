@@ -33,10 +33,12 @@ My primary goal is to:
 * ✅ Day 9 – Strings (Methods, Palindrome, Word Count & Username Generator)
 * ✅ Day 10 – Classes & Objects (Library Management System – Version 1)
 * ✅ Day 11 – Constructors & Student Admission System (Mini Project)
+* ✅ Day 12 – Encapsulation (Private Fields, Getters/Setters, Validation & Library Management System – Version 2)
+* ✅ Day 13 – Inheritance (Parent & Child Classes, Method Overriding & Library Management System – Version 3)
 
 ---
 
-# 🚀 Mini Projects Completed
+# 🚀 Projects Completed
 
 * 🧾 Student Details Program
 * 🧮 Basic Calculator
@@ -45,8 +47,10 @@ My primary goal is to:
 * 📊 Student Result Calculator
 * 📈 Student Marks Analyzer
 * 👤 Student Username Generator
-* 📚 Library Management System (Version 1)
 * 🎓 Student Admission System
+* 📚 Library Management System (Version 1)
+* 📚 Library Management System (Version 2 – Encapsulation)
+* 📚 Library Management System (Version 3 – Inheritance)
 
 ---
 
@@ -142,7 +146,9 @@ My primary goal is to:
 * Finding Longest Word
 * Counting Vowels & Consonants
 
-## Object-Oriented Programming (Introduction)
+## Object-Oriented Programming
+
+### Classes & Objects
 
 * Classes
 * Objects
@@ -150,13 +156,33 @@ My primary goal is to:
 * Methods
 * Creating Multiple Objects
 
-## Constructors
+### Constructors
 
 * Default Constructor
 * Parameterized Constructor
 * Constructor Overloading
-* `this` Keyword (Introduction)
+* `this` Keyword
 * Object Initialization
+
+### Encapsulation
+
+* `private` Access Modifier
+* Data Hiding
+* Getter Methods
+* Setter Methods
+* Validation
+* Encapsulated Class Design
+
+### Inheritance
+
+* Parent Class
+* Child Class
+* `extends` Keyword
+* `super` Keyword
+* Method Overriding
+* Code Reusability
+* Hierarchical Design
+* LibraryItem → Book, Magazine, Newspaper
 
 ---
 
@@ -185,7 +211,9 @@ Java-Learning-Roadmap/
 ├── Day-08-Arrays
 ├── Day-09-Strings
 ├── Day-10-Classes-and-Objects
-└── Day-11-Constructors
+├── Day-11-Constructors
+├── Day-12-Encapsulation
+└── Day-13-Inheritance
 ```
 
 ---
@@ -206,16 +234,14 @@ This repository reflects my commitment to learning through:
 
 # 🎯 Current Milestone
 
-✔ **Java Fundamentals, Strings & OOP Foundations Completed**
+✔ **Java Fundamentals & Core OOP (Inheritance Included) Completed**
 
-I have built a strong foundation in Java programming by mastering the language fundamentals, arrays, strings, classes, objects, and constructors. I am now ready to move into the core Object-Oriented Programming concepts such as encapsulation, inheritance, polymorphism, abstraction, and interfaces while continuing to build larger real-world applications.
+I have built a solid foundation in Java programming by mastering language fundamentals, arrays, strings, classes, objects, constructors, encapsulation, and inheritance. I can now design reusable class hierarchies and build object-oriented applications. My next step is to explore polymorphism, abstraction, interfaces, and advanced Java development.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Encapsulation
-* Inheritance
 * Polymorphism
 * Abstraction
 * Interfaces
@@ -236,8 +262,8 @@ I have built a strong foundation in Java programming by mastering the language f
 * ✅ Strings
 * ✅ Classes & Objects
 * ✅ Constructors
-* 🔄 Encapsulation
-* 🔄 Inheritance
+* ✅ Encapsulation
+* ✅ Inheritance
 * 🔄 Polymorphism
 * 🔄 Abstraction
 * 🔄 Interfaces
@@ -254,8 +280,8 @@ I have built a strong foundation in Java programming by mastering the language f
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* ☕ Java Days Completed: **11**
-* 🚀 Mini Projects: **9**
+* ☕ Java Days Completed: **13**
+* 🚀 Projects Completed: **11**
 * 📂 GitHub Updated Regularly
 * 💻 Project-Based Learning
 * 📚 Learning Alongside Python & Data Structures in C
@@ -273,6 +299,8 @@ Feel free to explore this repository and follow my learning journey.
 # ⭐ Thank You!!!
 
 Thank you for visiting my Java repository!
+
+If you found this repository useful, consider giving it a **⭐ Star**. It motivates me to keep learning, building, and sharing my progress.
 
 This repository will continue to grow as I explore Java, Object-Oriented Programming, and backend development. Every commit represents another step toward becoming a better software engineer.
 
