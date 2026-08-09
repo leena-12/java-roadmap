@@ -15,12 +15,13 @@ My primary goal is to:
 * Strengthen problem-solving skills.
 * Prepare for technical interviews.
 * Complement my Backend Development journey.
+* Build real-world software projects.
 
 ---
 
 # 📚 Progress
 
-## ✅ Java Fundamentals
+## ✅ Java Learning Journey
 
 * ✅ Day 1 – Introduction to Java, JDK, JRE, JVM & First Program
 * ✅ Day 2 – Variables & Data Types
@@ -28,13 +29,14 @@ My primary goal is to:
 * ✅ Day 4 – User Input & Type Casting
 * ✅ Day 5 – Conditional Statements (`if`, `if-else`, `switch`)
 * ✅ Day 6 – Loops (`for`, `while`, `do-while`) & Pattern Printing
-* ✅ Day 7 – Methods, Parameters, Return Types & Student Result Calculator (Mini Project)
-* ✅ Day 8 – Arrays & Student Marks Analyzer (Mini Project)
-* ✅ Day 9 – Strings (Methods, Palindrome, Word Count & Username Generator)
-* ✅ Day 10 – Classes & Objects (Library Management System – Version 1)
-* ✅ Day 11 – Constructors & Student Admission System (Mini Project)
-* ✅ Day 12 – Encapsulation (Private Fields, Getters/Setters, Validation & Library Management System – Version 2)
-* ✅ Day 13 – Inheritance (Parent & Child Classes, Method Overriding & Library Management System – Version 3)
+* ✅ Day 7 – Methods, Parameters, Return Types & Student Result Calculator
+* ✅ Day 8 – Arrays & Student Marks Analyzer
+* ✅ Day 9 – Strings, String Methods, Palindrome, Word Count & Username Generator
+* ✅ Day 10 – Classes & Objects & Library Management System – Version 1
+* ✅ Day 11 – Constructors & Student Admission System
+* ✅ Day 12 – Encapsulation, Getters/Setters, Validation & Library Management System – Version 2
+* ✅ Day 13 – Inheritance, Parent/Child Classes, Method Overriding & Library Management System – Version 3
+* ✅ Day 14 – Polymorphism, Method Overriding, Runtime Polymorphism & Library Management System – Version 4
 
 ---
 
@@ -51,6 +53,7 @@ My primary goal is to:
 * 📚 Library Management System (Version 1)
 * 📚 Library Management System (Version 2 – Encapsulation)
 * 📚 Library Management System (Version 3 – Inheritance)
+* 📚 Library Management System (Version 4 – Polymorphism)
 
 ---
 
@@ -115,16 +118,16 @@ My primary goal is to:
 * Method Declaration
 * Method Calling
 * Parameters
-* Return Type
+* Return Types
 * `void` Methods
 * Method Overloading (Introduction)
 
 ## Arrays
 
 * Array Declaration
-* Initialization
+* Array Initialization
 * User Input in Arrays
-* Traversing Arrays
+* Array Traversal
 * Finding Maximum & Minimum
 * Sum of Array Elements
 * Average Calculation
@@ -146,17 +149,20 @@ My primary goal is to:
 * Finding Longest Word
 * Counting Vowels & Consonants
 
-## Object-Oriented Programming
+---
 
-### Classes & Objects
+# 🧩 Object-Oriented Programming
+
+## Classes & Objects
 
 * Classes
 * Objects
 * Fields
 * Methods
 * Creating Multiple Objects
+* Object State & Behavior
 
-### Constructors
+## Constructors
 
 * Default Constructor
 * Parameterized Constructor
@@ -164,7 +170,7 @@ My primary goal is to:
 * `this` Keyword
 * Object Initialization
 
-### Encapsulation
+## Encapsulation
 
 * `private` Access Modifier
 * Data Hiding
@@ -173,7 +179,7 @@ My primary goal is to:
 * Validation
 * Encapsulated Class Design
 
-### Inheritance
+## Inheritance
 
 * Parent Class
 * Child Class
@@ -183,6 +189,17 @@ My primary goal is to:
 * Code Reusability
 * Hierarchical Design
 * LibraryItem → Book, Magazine, Newspaper
+
+## Polymorphism
+
+* Polymorphism Concept
+* Method Overriding
+* Runtime Polymorphism
+* Dynamic Method Dispatch
+* Upcasting
+* Parent Reference → Child Object
+* Flexible Object-Oriented Design
+* Polymorphic Library Management System
 
 ---
 
@@ -213,78 +230,119 @@ Java-Learning-Roadmap/
 ├── Day-10-Classes-and-Objects
 ├── Day-11-Constructors
 ├── Day-12-Encapsulation
-└── Day-13-Inheritance
+├── Day-13-Inheritance
+└── Day-14-Polymorphism
 ```
 
 ---
 
 # 📈 Learning Philosophy
 
-I believe learning Java is about more than understanding syntax. My focus is on writing clean code, understanding core programming concepts, and preparing for Object-Oriented Programming and software development.
+I believe learning Java is about more than understanding syntax. My focus is on writing clean code, understanding core programming concepts, developing problem-solving skills, and learning how professional software is designed.
 
 This repository reflects my commitment to learning through:
 
 * 📖 Daily Study
 * 💻 Hands-on Coding
 * 🧩 Problem Solving
-* 🚀 Building Projects
+* 🚀 Mini Projects
+* 🏗️ Object-Oriented Design
 * 📂 Version Control with Git & GitHub
 
 ---
 
 # 🎯 Current Milestone
 
-✔ **Java Fundamentals & Core OOP (Inheritance Included) Completed**
+✔ **Java Fundamentals & Core OOP Foundations Completed**
 
-I have built a solid foundation in Java programming by mastering language fundamentals, arrays, strings, classes, objects, constructors, encapsulation, and inheritance. I can now design reusable class hierarchies and build object-oriented applications. My next step is to explore polymorphism, abstraction, interfaces, and advanced Java development.
+I have built a strong foundation in Java programming by mastering:
+
+* Java fundamentals
+* Control flow
+* Methods
+* Arrays
+* Strings
+* Classes & Objects
+* Constructors
+* Encapsulation
+* Inheritance
+* Polymorphism
+
+I can now design basic object-oriented applications using reusable classes, inheritance hierarchies, encapsulation, and polymorphism.
+
+The next phase of my Java journey will focus on **abstraction, interfaces, exception handling, collections, and more advanced software development concepts.**
 
 ---
 
 # 📖 Upcoming Topics
 
-* Polymorphism
 * Abstraction
+* Abstract Classes
 * Interfaces
 * Exception Handling
 * File Handling
 * Collections Framework
 * Generics
+* ArrayList
+* HashMap
+* HashSet
 * Multithreading
 * JDBC
+* SQL Integration
 * Spring Boot
+* REST APIs
 * Backend Development
 
 ---
 
-# 🌟 Long-Term Roadmap
+# 🌟 Long-Term Java Roadmap
 
-* ✅ Java Fundamentals
-* ✅ Strings
-* ✅ Classes & Objects
-* ✅ Constructors
-* ✅ Encapsulation
-* ✅ Inheritance
-* 🔄 Polymorphism
-* 🔄 Abstraction
-* 🔄 Interfaces
-* 🔄 Exception Handling
-* 🔄 Collections Framework
-* 🔄 File Handling
-* 🔄 Multithreading
-* 🔄 JDBC
-* 🔄 Spring Boot
-* 🔄 Backend Development
+```text
+Java Fundamentals
+        ↓
+OOP
+        ↓
+Encapsulation
+        ↓
+Inheritance
+        ↓
+Polymorphism
+        ↓
+Abstraction & Interfaces
+        ↓
+Exception Handling
+        ↓
+Collections Framework
+        ↓
+Generics
+        ↓
+File Handling
+        ↓
+Multithreading
+        ↓
+JDBC + SQL
+        ↓
+Spring Boot
+        ↓
+REST APIs
+        ↓
+Backend Development
+        ↓
+Real-World Projects
+```
 
 ---
 
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* ☕ Java Days Completed: **13**
-* 🚀 Projects Completed: **11**
+* ☕ Java Days Completed: **14**
+* 🚀 Projects Completed: **12**
 * 📂 GitHub Updated Regularly
 * 💻 Project-Based Learning
+* 🧩 Core OOP Foundations Completed
 * 📚 Learning Alongside Python & Data Structures in C
+* 🎯 Focused on Software Engineering & Backend Development
 
 ---
 
@@ -296,12 +354,14 @@ Feel free to explore this repository and follow my learning journey.
 
 ---
 
-# ⭐ Thank You!!!
+# ⭐ Thank You!
 
-Thank you for visiting my Java repository!
+Thank you for visiting my repository!
 
 If you found this repository useful, consider giving it a **⭐ Star**. It motivates me to keep learning, building, and sharing my progress.
 
-This repository will continue to grow as I explore Java, Object-Oriented Programming, and backend development. Every commit represents another step toward becoming a better software engineer.
+This repository will continue to grow as I explore Java, Object-Oriented Programming, backend development, and real-world software engineering.
+
+Every commit represents another step toward becoming a better software engineer.
 
 **Happy Coding! ☕🚀**
