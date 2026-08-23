@@ -37,6 +37,7 @@ My primary goal is to:
 * ✅ Day 12 – Encapsulation, Getters/Setters, Validation & Library Management System – Version 2
 * ✅ Day 13 – Inheritance, Parent/Child Classes, Method Overriding & Library Management System – Version 3
 * ✅ Day 14 – Polymorphism, Method Overriding, Runtime Polymorphism & Library Management System – Version 4
+* ✅ Day 15 – Abstraction, Abstract Classes, Abstract Methods & Library Management System – Version 5
 
 ---
 
@@ -54,6 +55,7 @@ My primary goal is to:
 * 📚 Library Management System (Version 2 – Encapsulation)
 * 📚 Library Management System (Version 3 – Inheritance)
 * 📚 Library Management System (Version 4 – Polymorphism)
+* 📚 Library Management System (Version 5 – Abstraction)
 
 ---
 
@@ -70,7 +72,6 @@ My primary goal is to:
 ## Variables & Data Types
 
 * Primitive Data Types
-
   * `int`
   * `float`
   * `double`
@@ -201,6 +202,20 @@ My primary goal is to:
 * Flexible Object-Oriented Design
 * Polymorphic Library Management System
 
+## Abstraction
+
+* Abstraction Concept
+* Abstract Classes
+* Abstract Methods
+* `abstract` Keyword
+* Implementing Abstract Methods
+* Partial Abstraction
+* Hiding Implementation Details
+* Defining Common Behavior
+* Designing Abstract Base Classes
+* Abstract LibraryItem Design
+* Library Management System with Abstraction
+
 ---
 
 # 💻 Technologies & Tools
@@ -231,73 +246,60 @@ Java-Learning-Roadmap/
 ├── Day-11-Constructors
 ├── Day-12-Encapsulation
 ├── Day-13-Inheritance
-└── Day-14-Polymorphism
+├── Day-14-Polymorphism
+└── Day-15-Abstraction
 ```
 
----
-
-# 📈 Learning Philosophy
+📈 Learning Philosophy
 
 I believe learning Java is about more than understanding syntax. My focus is on writing clean code, understanding core programming concepts, developing problem-solving skills, and learning how professional software is designed.
 
 This repository reflects my commitment to learning through:
 
-* 📖 Daily Study
-* 💻 Hands-on Coding
-* 🧩 Problem Solving
-* 🚀 Mini Projects
-* 🏗️ Object-Oriented Design
-* 📂 Version Control with Git & GitHub
+📖 Daily Study
+💻 Hands-on Coding
+🧩 Problem Solving
+🚀 Mini Projects
+🏗️ Object-Oriented Design
+📂 Version Control with Git & GitHub
+🎯 Current Milestone
 
----
-
-# 🎯 Current Milestone
-
-✔ **Java Fundamentals & Core OOP Foundations Completed**
+✔ Java Fundamentals & Core OOP Completed
 
 I have built a strong foundation in Java programming by mastering:
 
-* Java fundamentals
-* Control flow
-* Methods
-* Arrays
-* Strings
-* Classes & Objects
-* Constructors
-* Encapsulation
-* Inheritance
-* Polymorphism
+Java fundamentals
+Control flow
+Methods
+Arrays
+Strings
+Classes & Objects
+Constructors
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
 
-I can now design basic object-oriented applications using reusable classes, inheritance hierarchies, encapsulation, and polymorphism.
+I can now design basic object-oriented applications using reusable classes, encapsulation, inheritance, polymorphism, and abstraction.
 
-The next phase of my Java journey will focus on **abstraction, interfaces, exception handling, collections, and more advanced software development concepts.**
+The next phase of my Java journey will focus on interfaces, exception handling, file handling, collections, generics, and more advanced Java development concepts.
 
----
-
-# 📖 Upcoming Topics
-
-* Abstraction
-* Abstract Classes
-* Interfaces
-* Exception Handling
-* File Handling
-* Collections Framework
-* Generics
-* ArrayList
-* HashMap
-* HashSet
-* Multithreading
-* JDBC
-* SQL Integration
-* Spring Boot
-* REST APIs
-* Backend Development
-
----
-
-# 🌟 Long-Term Java Roadmap
-
-```text
+📖 Upcoming Topics
+Interfaces
+Exception Handling
+File Handling
+Collections Framework
+Generics
+ArrayList
+HashMap
+HashSet
+Multithreading
+JDBC
+SQL Integration
+Spring Boot
+REST APIs
+Backend Development
+🌟 Long-Term Java Roadmap
 Java Fundamentals
         ↓
 OOP
@@ -308,7 +310,9 @@ Inheritance
         ↓
 Polymorphism
         ↓
-Abstraction & Interfaces
+Abstraction
+        ↓
+Interfaces
         ↓
 Exception Handling
         ↓
@@ -329,39 +333,29 @@ REST APIs
 Backend Development
         ↓
 Real-World Projects
-```
-
----
-
-# 📊 Repository Status
-
-* 📅 Learning Since: 2026
-* ☕ Java Days Completed: **14**
-* 🚀 Projects Completed: **12**
-* 📂 GitHub Updated Regularly
-* 💻 Project-Based Learning
-* 🧩 Core OOP Foundations Completed
-* 📚 Learning Alongside Python & Data Structures in C
-* 🎯 Focused on Software Engineering & Backend Development
-
----
-
-# 🤝 Connect With Me
+📊 Repository Status
+📅 Learning Since: 2026
+☕ Java Days Completed: 15
+🚀 Projects Completed: 13
+📂 GitHub Updated Regularly
+💻 Project-Based Learning
+🧩 Core OOP Foundations Completed
+📚 Learning Alongside Python & Data Structures in C
+🎯 Focused on Software Engineering & Backend Development
+🤝 Connect With Me
 
 I'm continuously learning and improving my Java skills. Feedback, suggestions, and discussions are always welcome!
 
 Feel free to explore this repository and follow my learning journey.
 
----
-
-# ⭐ Thank You!
+⭐ Thank You!
 
 Thank you for visiting my repository!
 
-If you found this repository useful, consider giving it a **⭐ Star**. It motivates me to keep learning, building, and sharing my progress.
+If you found this repository useful, consider giving it a ⭐ Star. It motivates me to keep learning, building, and sharing my progress.
 
 This repository will continue to grow as I explore Java, Object-Oriented Programming, backend development, and real-world software engineering.
 
 Every commit represents another step toward becoming a better software engineer.
 
-**Happy Coding! ☕🚀**
+Happy Coding! ☕🚀
