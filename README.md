@@ -1,4 +1,4 @@
-# ☕ Java Learning Roadmap 🚀
+#☕ Java Learning Roadmap 🚀
 
 Welcome to my Java learning repository!
 
@@ -19,9 +19,9 @@ My primary goal is to:
 
 ---
 
-# 📚 Progress
+#📚 Progress
 
-## ✅ Java Learning Journey
+##✅ Java Learning Journey
 
 * ✅ Day 1 – Introduction to Java, JDK, JRE, JVM & First Program
 * ✅ Day 2 – Variables & Data Types
