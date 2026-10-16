@@ -1,27 +1,32 @@
-#☕ Java Learning Roadmap🚀
+# ☕ Java Learning Roadmap 🚀
 
 Welcome to my Java learning repository!
 
-I'm currently learning **Java** as part of my Computer Science Engineering curriculum and my journey to become a **Software Engineer**. This repository contains my daily practice programs, mini-projects, and notes while building a strong foundation in Java and Object-Oriented Programming (OOP).
+I'm currently learning **Java** as part of my Computer Science Engineering journey and my goal of becoming a **Software Engineer**. This repository documents my daily practice, programming exercises, mini-projects, and progress as I strengthen my Java fundamentals, Object-Oriented Programming (OOP), problem-solving skills, and software development abilities.
+
+My focus is on learning by doing: writing code, solving problems independently, building projects, and understanding how software is designed.
 
 ---
 
-# 🎯 Goal
+# 🎯 Goals
 
-My primary goal is to:
+My primary goals are to:
 
 * Build a strong foundation in Java programming.
-* Master Object-Oriented Programming (OOP).
-* Strengthen problem-solving skills.
-* Prepare for technical interviews.
-* Complement my Backend Development journey.
-* Build real-world software projects.
+* Strengthen Object-Oriented Programming (OOP).
+* Improve independent problem-solving skills.
+* Understand Java's Collections Framework.
+* Learn to write clean, reusable, and maintainable code.
+* Practise exception handling and interface-based design.
+* Build practical Java applications.
+* Prepare for software engineering internships and technical interviews.
+* Progress toward backend development using Java and Spring Boot.
 
 ---
 
-#📚 Progress
+# 📚 Learning Progress
 
-##✅ Java Learning Journey
+## ✅ Part 1: Java Fundamentals and Core OOP
 
 * ✅ Day 1 – Introduction to Java, JDK, JRE, JVM & First Program
 * ✅ Day 2 – Variables & Data Types
@@ -39,9 +44,30 @@ My primary goal is to:
 * ✅ Day 14 – Polymorphism, Method Overriding, Runtime Polymorphism & Library Management System – Version 4
 * ✅ Day 15 – Abstraction, Abstract Classes, Abstract Methods & Library Management System – Version 5
 
+## ✅ Part 2: Core Java Development
+
+After completing the fundamentals and core OOP concepts, I continued practising more advanced Java topics.
+
+* ✅ Exception Handling – `try`, `catch`, `finally`, `throw` & `throws`
+* ✅ Custom Exceptions & Input Validation
+* ✅ Java Collections Framework – `ArrayList`, `HashSet` & `HashMap`
+* ✅ Additional Collections – `LinkedList`, `Queue` & `ArrayDeque`
+* ✅ Collection Traversal – Iterators, Enhanced `for` Loops & Collection Operations
+* ✅ Generics – Generic Classes & Generic Methods
+* ✅ `Comparable` & `Comparator` – Object Comparison and Sorting
+* ✅ Interfaces – Implementing Interfaces in Multiple Classes
+* ✅ Multiple Interfaces – Understanding Flexible Class Design
+* ✅ Interface-Based Payment System – UPI and Card Payment Implementations
+
+**Current focus:** Strengthening Java concepts through independent coding, practical exercises, and small applications.
+
+*Note: The original 15-day sequence above represents my initial repository roadmap. The additional topics are documented separately so that later practice does not change the numbering of my original learning journey.*
+
 ---
 
 # 🚀 Projects Completed
+
+## Java Fundamentals
 
 * 🧾 Student Details Program
 * 🧮 Basic Calculator
@@ -51,54 +77,67 @@ My primary goal is to:
 * 📈 Student Marks Analyzer
 * 👤 Student Username Generator
 * 🎓 Student Admission System
-* 📚 Library Management System (Version 1)
-* 📚 Library Management System (Version 2 – Encapsulation)
-* 📚 Library Management System (Version 3 – Inheritance)
-* 📚 Library Management System (Version 4 – Polymorphism)
-* 📚 Library Management System (Version 5 – Abstraction)
+
+## Object-Oriented Programming Projects
+
+* 📚 Library Management System – Version 1: Classes & Objects
+* 📚 Library Management System – Version 2: Encapsulation
+* 📚 Library Management System – Version 3: Inheritance
+* 📚 Library Management System – Version 4: Polymorphism
+* 📚 Library Management System – Version 5: Abstraction
+
+## Core Java Project
+
+* 💳 Payment System – Interfaces, Multiple Implementations & Polymorphism
+
+The projects above represent my learning through practical programming. I will continue improving them as I learn better software design, validation, exception handling, collections, and database integration.
 
 ---
 
 # 🧠 Skills Learned
 
-## Java Basics
+## 1. Java Fundamentals
 
 * Java Program Structure
 * JDK, JRE & JVM
-* Compilation & Execution Process
+* Compilation and Execution
 * `main()` Method
-* `System.out.println()`
+* Output Using `System.out.println()`
+* Comments and Naming Conventions
 
-## Variables & Data Types
+## 2. Variables & Data Types
 
 * Primitive Data Types
+
   * `int`
   * `float`
   * `double`
   * `char`
   * `boolean`
   * `long`
-* Variable Declaration
-* Initialization
-* Naming Conventions
+  * `short`
+  * `byte`
+* Variable Declaration and Initialization
+* Type Casting
+* Constants and the `final` Keyword
 
-## Operators
+## 3. Operators
 
 * Arithmetic Operators
 * Relational Operators
 * Logical Operators
 * Assignment Operators
-* Increment & Decrement Operators
+* Increment and Decrement Operators
 * Operator Precedence
 
-## User Input
+## 4. User Input
 
-* Scanner Class
+* `Scanner` Class
 * Reading Different Data Types
-* Type Casting
-* User Interaction
+* Type Conversion
+* Handling User Input
 
-## Decision Making
+## 5. Decision Making
 
 * `if` Statement
 * `if-else` Statement
@@ -106,37 +145,39 @@ My primary goal is to:
 * Nested `if`
 * `switch` Statement
 
-## Loops
+## 6. Loops
 
 * `for` Loop
 * `while` Loop
 * `do-while` Loop
 * Nested Loops
 * Pattern Printing
+* `break` and `continue`
 
-## Methods
+## 7. Methods
 
-* Method Declaration
-* Method Calling
-* Parameters
+* Method Declaration and Calling
+* Parameters and Arguments
 * Return Types
 * `void` Methods
-* Method Overloading (Introduction)
+* Method Overloading
+* Scope of Variables
+* Reusable Code
 
-## Arrays
+## 8. Arrays
 
-* Array Declaration
-* Array Initialization
-* User Input in Arrays
+* Array Declaration and Initialization
+* Taking Array Input
 * Array Traversal
-* Finding Maximum & Minimum
-* Sum of Array Elements
-* Average Calculation
+* Finding Maximum and Minimum
+* Calculating Sum and Average
+* Searching Array Elements
+* Basic Array Analysis
 
-## Strings
+## 9. Strings
 
 * Creating Strings
-* String Methods
+* String Immutability
 * `length()`
 * `charAt()`
 * `substring()`
@@ -146,27 +187,26 @@ My primary goal is to:
 * `toLowerCase()`
 * Reversing Strings
 * Palindrome Checking
-* Counting Words
-* Finding Longest Word
-* Counting Vowels & Consonants
+* Word Counting
+* Finding the Longest Word
+* Counting Vowels and Consonants
 
 ---
 
-# 🧩 Object-Oriented Programming
+# 🧩 Object-Oriented Programming (OOP)
 
 ## Classes & Objects
 
-* Classes
-* Objects
-* Fields
-* Methods
+* Classes and Objects
+* Fields and Methods
+* Object State and Behavior
 * Creating Multiple Objects
-* Object State & Behavior
+* Instance Variables and Instance Methods
 
 ## Constructors
 
-* Default Constructor
-* Parameterized Constructor
+* Default and No-Argument Constructors
+* Parameterized Constructors
 * Constructor Overloading
 * `this` Keyword
 * Object Initialization
@@ -175,32 +215,30 @@ My primary goal is to:
 
 * `private` Access Modifier
 * Data Hiding
-* Getter Methods
-* Setter Methods
-* Validation
+* Getter and Setter Methods
+* Input Validation
 * Encapsulated Class Design
 
 ## Inheritance
 
-* Parent Class
-* Child Class
+* Parent and Child Classes
 * `extends` Keyword
 * `super` Keyword
 * Method Overriding
 * Code Reusability
-* Hierarchical Design
-* LibraryItem → Book, Magazine, Newspaper
+* Hierarchical Class Design
+* `LibraryItem` → `Book`, `Magazine`, `Newspaper`
 
 ## Polymorphism
 
-* Polymorphism Concept
-* Method Overriding
+* Compile-Time Polymorphism
+* Method Overloading
 * Runtime Polymorphism
+* Method Overriding
 * Dynamic Method Dispatch
 * Upcasting
-* Parent Reference → Child Object
+* Parent References and Child Objects
 * Flexible Object-Oriented Design
-* Polymorphic Library Management System
 
 ## Abstraction
 
@@ -209,153 +247,305 @@ My primary goal is to:
 * Abstract Methods
 * `abstract` Keyword
 * Implementing Abstract Methods
-* Partial Abstraction
 * Hiding Implementation Details
 * Defining Common Behavior
 * Designing Abstract Base Classes
-* Abstract LibraryItem Design
-* Library Management System with Abstraction
+* Abstract `LibraryItem` Design
+
+## Interfaces
+
+* Declaring Interfaces
+* Implementing Interfaces Using `implements`
+* Interface Methods
+* Multiple Interface Implementation
+* Interface-Based Design
+* Using Interfaces for Flexible Implementations
+* Payment Processing Example Using UPI and Card Payments
+
+---
+
+# ⚠️ Exception Handling
+
+* Understanding Exceptions
+* `try` and `catch`
+* Multiple `catch` Blocks
+* `finally` Block
+* `throw` Keyword
+* `throws` Keyword
+* Built-In Exceptions
+* Custom Exception Classes
+* Input Validation
+* Handling Invalid Operations
+* Writing More Robust Programs
+
+---
+
+# 📦 Java Collections Framework
+
+## List
+
+* `ArrayList`
+* `LinkedList`
+* Adding and Removing Elements
+* Accessing and Updating Elements
+* Iterating Through Collections
+
+## Set
+
+* `HashSet`
+* Storing Unique Elements
+* Understanding Duplicate Handling
+* Basic Set Operations
+
+## Map
+
+* `HashMap`
+* Key-Value Pairs
+* Adding and Retrieving Entries
+* Updating and Removing Entries
+* Checking Whether Keys Exist
+* Frequency Counting Using Maps
+
+## Queue
+
+* `Queue` Interface
+* `ArrayDeque`
+* Adding and Removing Elements
+* FIFO Behavior
+* Basic Queue-Based Applications
+
+## Iteration and Collection Operations
+
+* Enhanced `for` Loop
+* `Iterator`
+* Collection Traversal
+* Choosing an Appropriate Collection
+* Applying Collections to Small Applications
+
+---
+
+# 🧬 Generics and Object Comparison
+
+## Generics
+
+* Generic Classes
+* Generic Methods
+* Reusable Type-Safe Code
+* Basic Generic Type Parameters
+
+## Comparable and Comparator
+
+* Implementing `Comparable`
+* Overriding `compareTo()`
+* Implementing `Comparator`
+* Sorting Objects by Different Fields
+* Comparing Objects by Marks, Names, or IDs
+* Understanding Natural Ordering and Custom Ordering
 
 ---
 
 # 💻 Technologies & Tools
 
 * Java
-* Visual Studio Code
 * JDK
+* Visual Studio Code
 * Git
 * GitHub
+
+### Planned Tools and Technologies
+
+* SQL
+* Relational Databases
+* JDBC
+* Maven
+* Spring Boot
+* REST APIs
+* Postman
+* JUnit
+
+These technologies will be introduced progressively as my Java and backend development skills improve.
 
 ---
 
 # 📂 Repository Structure
 
+My repository organizes Java programs, exercises, and projects by learning topic.
+
 ```text
 Java-Learning-Roadmap/
 │
-├── Day-01-Java-Basics
-├── Day-02-Variables-and-Data-Types
-├── Day-03-Operators
-├── Day-04-User-Input
-├── Day-05-Conditional-Statements
-├── Day-06-Loops
-├── Day-07-Methods
-├── Day-08-Arrays
-├── Day-09-Strings
-├── Day-10-Classes-and-Objects
-├── Day-11-Constructors
-├── Day-12-Encapsulation
-├── Day-13-Inheritance
-├── Day-14-Polymorphism
-└── Day-15-Abstraction
+├── Day-01-Java-Basics/
+├── Day-02-Variables-and-Data-Types/
+├── Day-03-Operators/
+├── Day-04-User-Input/
+├── Day-05-Conditional-Statements/
+├── Day-06-Loops/
+├── Day-07-Methods/
+├── Day-08-Arrays/
+├── Day-09-Strings/
+├── Day-10-Classes-and-Objects/
+├── Day-11-Constructors/
+├── Day-12-Encapsulation/
+├── Day-13-Inheritance/
+├── Day-14-Polymorphism/
+├── Day-15-Abstraction/
+│
+├── Exception-Handling/
+├── Collections/
+├── Generics-and-Comparators/
+├── Interfaces/
+│
+├── Projects/
+│   ├── Student-Result-Calculator/
+│   ├── Library-Management-System/
+│   └── Payment-System/
+│
+└── README.md
 ```
 
-📈 Learning Philosophy
+*The structure above is a suggested organization. I'll keep the README synchronized with the folders and files that actually exist in the repository.*
 
-I believe learning Java is about more than understanding syntax. My focus is on writing clean code, understanding core programming concepts, developing problem-solving skills, and learning how professional software is designed.
+---
 
-This repository reflects my commitment to learning through:
+# 📈 Learning Philosophy
 
-📖 Daily Study
-💻 Hands-on Coding
-🧩 Problem Solving
-🚀 Mini Projects
-🏗️ Object-Oriented Design
-📂 Version Control with Git & GitHub
-🎯 Current Milestone
+I believe learning Java is about more than memorizing syntax.
 
-✔ Java Fundamentals & Core OOP Completed
+My focus is on:
 
-I have built a strong foundation in Java programming by mastering:
+* 📖 Understanding programming concepts
+* 💻 Writing code through hands-on practice
+* 🧩 Developing independent problem-solving skills
+* 🐛 Debugging errors and learning from mistakes
+* 🏗️ Applying OOP principles in practical projects
+* 📦 Choosing appropriate data structures
+* 🧪 Testing programs with different inputs
+* 📂 Maintaining organized code with Git and GitHub
+* 🚀 Gradually building more useful software applications
 
-Java fundamentals
-Control flow
-Methods
-Arrays
-Strings
-Classes & Objects
-Constructors
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
+I aim to understand not only how a program works, but also why a particular approach is appropriate.
 
-I can now design basic object-oriented applications using reusable classes, encapsulation, inheritance, polymorphism, and abstraction.
+---
 
-The next phase of my Java journey will focus on interfaces, exception handling, file handling, collections, generics, and more advanced Java development concepts.
+# 🎯 Current Milestone
 
-📖 Upcoming Topics
-Interfaces
-Exception Handling
-File Handling
-Collections Framework
-Generics
-ArrayList
-HashMap
-HashSet
-Multithreading
-JDBC
-SQL Integration
-Spring Boot
-REST APIs
-Backend Development
-🌟 Long-Term Java Roadmap
+## Strengthening Core Java and Problem-Solving
+
+I have completed my initial Java fundamentals and OOP roadmap and continued learning exception handling, collections, generics, object comparison, and interfaces.
+
+My current priorities are to:
+
+* Strengthen my understanding of Java collections.
+* Practise generics and object sorting.
+* Apply interfaces in practical applications.
+* Improve exception handling and input validation.
+* Write more code independently.
+* Build applications that combine multiple Java concepts.
+* Prepare for database integration and backend development.
+
+My goal is to move beyond completing tutorials and become comfortable designing, implementing, testing, and explaining my own programs.
+
+---
+
+# 📖 Upcoming Topics
+
+The next stages of my Java learning journey will include:
+
+* [ ] File Handling
+* [ ] Deeper Generics and Collection Operations
+* [ ] Java Functional Interfaces and Lambda Expressions
+* [ ] Streams API
+* [ ] Additional Data Structures and Algorithms
+* [ ] Multithreading and Concurrency Fundamentals
+* [ ] JDBC
+* [ ] SQL and Relational Database Integration
+* [ ] Maven and Project Management
+* [ ] Unit Testing with JUnit
+* [ ] HTTP and REST API Fundamentals
+* [ ] Spring Boot
+* [ ] Backend Development
+* [ ] Real-World Projects
+
+Topics will be introduced in a practical order based on my progress and learning needs.
+
+---
+
+# 🌱 Long-Term Java Roadmap
+
+```text
 Java Fundamentals
         ↓
-OOP
+Object-Oriented Programming
         ↓
-Encapsulation
-        ↓
-Inheritance
-        ↓
-Polymorphism
-        ↓
-Abstraction
-        ↓
-Interfaces
-        ↓
-Exception Handling
+Interfaces and Exception Handling
         ↓
 Collections Framework
         ↓
-Generics
+Generics and Object Comparison
         ↓
 File Handling
         ↓
-Multithreading
+Lambdas and Streams
         ↓
-JDBC + SQL
+Data Structures and Algorithms
+        ↓
+Multithreading Fundamentals
+        ↓
+SQL and Relational Databases
+        ↓
+JDBC
+        ↓
+Maven and Unit Testing
+        ↓
+HTTP and REST APIs
         ↓
 Spring Boot
-        ↓
-REST APIs
         ↓
 Backend Development
         ↓
 Real-World Projects
-📊 Repository Status
-📅 Learning Since: 2026
-☕ Java Days Completed: 15
-🚀 Projects Completed: 13
-📂 GitHub Updated Regularly
-💻 Project-Based Learning
-🧩 Core OOP Foundations Completed
-📚 Learning Alongside Python & Data Structures in C
-🎯 Focused on Software Engineering & Backend Development
-🤝 Connect With Me
+        ↓
+Software Engineering Internship Preparation
+```
 
-I'm continuously learning and improving my Java skills. Feedback, suggestions, and discussions are always welcome!
+---
 
-Feel free to explore this repository and follow my learning journey.
+# 📊 Repository Status
 
-⭐ Thank You!
+* 📅 Learning Since: 2026
+* ☕ Original Java Roadmap: 15 Days Completed
+* 🧩 Core OOP Concepts: Completed
+* ⚠️ Exception Handling: Practised
+* 📦 Collections Framework: Practised
+* 🧬 Generics and Object Comparison: Practised
+* 🔌 Interfaces: Practised
+* 🚀 Project-Based Learning: Ongoing
+* 📂 Git and GitHub: Used to document progress
+* 🎯 Current Focus: Core Java, DSA, Problem-Solving, and Software Engineering Preparation
 
-Thank you for visiting my repository!
+I am learning Java alongside Python and C++ Data Structures and Algorithms as part of my broader software engineering roadmap.
 
-If you found this repository useful, consider giving it a ⭐ Star. It motivates me to keep learning, building, and sharing my progress.
+---
 
-This repository will continue to grow as I explore Java, Object-Oriented Programming, backend development, and real-world software engineering.
+# 🤝 Connect With Me
 
-Every commit represents another step toward becoming a better software engineer.
+I'm continuously learning, practising, and improving my programming skills.
+
+Feedback, suggestions, and discussions are always welcome!
+
+Feel free to explore my repository and follow my learning journey.
+
+---
+
+# ⭐ Thank You!
+
+Thank you for visiting my Java learning repository!
+
+If you find my work useful, consider giving it a ⭐ Star. Your support motivates me to keep learning, building, and sharing my progress.
+
+Every program I write and every problem I solve is another opportunity to become a better software engineer.
+
+**Learning consistently. Building practically. Improving every day.**
 
 Happy Coding! ☕🚀
+
