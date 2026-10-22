@@ -8,7 +8,7 @@ My focus is on learning by doing: writing code, solving problems independently, 
 
 ---
 
-# 🎯 Goals
+#🎯 Goals
 
 My primary goals are to:
 
