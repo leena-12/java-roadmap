@@ -1,4 +1,4 @@
-# ☕ Java Learning Roadmap 🚀
+#☕ Java Learning Roadmap 🚀
 
 Welcome to my Java learning repository!
 
@@ -8,7 +8,7 @@ My focus is on learning by doing: writing code, solving problems independently, 
 
 ---
 
-# 🎯 Goals
+#🎯 Goals
 
 My primary goals are to:
 
