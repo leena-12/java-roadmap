@@ -24,7 +24,7 @@ My primary goals are to:
 
 ---
 
-# 📚 Learning Progress
+#📚 Learning Progress
 
 ## ✅ Part 1: Java Fundamentals and Core OOP
 
