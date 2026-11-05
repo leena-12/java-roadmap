@@ -65,7 +65,7 @@ After completing the fundamentals and core OOP concepts, I continued practising 
 
 ---
 
-# 🚀 Projects Completed
+#🚀 Projects Completed
 
 ## Java Fundamentals
 
