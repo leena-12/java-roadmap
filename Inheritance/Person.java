@@ -25,19 +25,25 @@ class Student extends Person {
 
     @Override
     public void display() {
-        super.display(); // show parent info
+        super.display();
         System.out.println("Roll No: " + rollNo);
-        System.out.println("CGPA   : " + cgpa);
+        System.out.println("CGPA   : " + String.format("%.2f", cgpa));
+    }
+
+    public void showStudentDetails() {
+        System.out.println("----- Student Details -----");
+        display();
     }
 
     public static void main(String[] args) {
-        Person p = new Person("Aman", 21);
-        Student s = new Student("Priya", 20, "CS001", 9.2);
+        Person person = new Person("Aman", 21);
+        Student student = new Student("Priya", 20, "CS001", 9.2);
 
-        System.out.println("=== Person ===");
-        p.display();
+        System.out.println("===== Person Details =====");
+        person.display();
 
-        System.out.println("\n=== Student ===");
-        s.display();
+        System.out.println();
+
+        student.showStudentDetails();
     }
 }
