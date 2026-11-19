@@ -26,7 +26,7 @@ My primary goals are to:
 
 #📚 Learning Progress
 
-## ✅ Part 1: Java Fundamentals and Core OOP
+##✅ Part 1: Java Fundamentals and Core OOP
 
 * ✅ Day 1 – Introduction to Java, JDK, JRE, JVM & First Program
 * ✅ Day 2 – Variables & Data Types
